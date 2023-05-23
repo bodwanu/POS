@@ -1,0 +1,2 @@
+Item with id: 444 not found in the inventory catalog.
+Total revenue: 160.0
